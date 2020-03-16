@@ -36,7 +36,7 @@ song_table_create = ("""
     create table songs (
         song_id varchar not null primary key, 
         title varchar, 
-        artist_id int, 
+        artist_id varchar, 
         year int, 
         duration float
     )
@@ -67,8 +67,8 @@ time_table_create = ("""
 # INSERT RECORDS
 
 songplay_table_insert = ("""
-    insert into songplays (songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent)
-    values (%d, %s, %s, %s, %s, %s, %d, %s, %s)
+    insert into songplays (start_time, user_id, level, song_id, artist_id, session_id, location, user_agent)
+    values (%s, %s, %s, %s, %s, %s, %s, %s)
 """)
 
 user_table_insert = ("""
@@ -78,26 +78,27 @@ user_table_insert = ("""
 
 song_table_insert = ("""
     insert into songs (song_id, title, artist_id, year, duration)
-    values (%s, %s, %d, %d, %f)
+    values (%s, %s, %s, %s, %s)
 """)
 
 artist_table_insert = ("""
     insert into artists (artist_id, name, location, latitude, longitude)
-    values (%s, %s, %s, %f, %f)
+    values (%s, %s, %s, %s, %s)
 """)
 
 time_table_insert = ("""
     insert into time (start_time, hour, day, week, month, year, weekday)
-    values (%f, %d, %d, %d, %d, %d, %s)
+    values (%s, %s, %s, %s, %s, %s, %s)
 """)
 
 # FIND SONGS
 
 song_select = ("""
-    select u.first_name, u.last_name, u.level, s.title, s.duration, a.name, a.location
-    from songplays sp inner join users u on sp.user_id = u.user_id
-    inner join songs s on sp.song_id = s.song_id
-    inner join artists a on sp.artist_id = a.artist_id
+    select s.song_id, a.artist_id
+    from songs s inner join artists a on s.artist_id = a.artist_id
+    where s.title = %s
+    and a.name = %s
+    and s.duration = %s
 """)
 
 # QUERY LISTS
