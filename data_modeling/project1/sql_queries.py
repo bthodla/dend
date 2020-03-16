@@ -67,8 +67,13 @@ time_table_create = ("""
 # INSERT RECORDS
 
 songplay_table_insert = ("""
+<<<<<<< HEAD
     insert into songplays (start_time, user_id, level, song_id, artist_id, session_id, location, user_agent)
     values (%s, %s, %s, %s, %s, %s, %s, %s)
+=======
+    insert into songplays (songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent)
+    values (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+>>>>>>> develop
 """)
 
 user_table_insert = ("""
