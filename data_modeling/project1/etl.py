@@ -3,23 +3,24 @@ import glob
 import psycopg2
 import pandas as pd
 from sql_queries import *
-
+import time
+from datetime import datetime
 
 def process_song_file(cur, filepath):
     # open song file
     df = pd.read_json(filepath, lines=True)
 
     # insert song record
-    # song_data_df = df[['song_id', 'title', 'artist_id', 'year', 'duration']]
-    # song_data = [list(row) for row in song_data_df.itertuples(index=False)]
-    song_data = df[['song_id', 'title', 'artist_id', 'year', 'duration']]
-    cur.execute(song_table_insert, song_data)
+    song_data_df = df[['song_id', 'title', 'artist_id', 'year', 'duration']]
+    song_data = [list(row) for row in song_data_df.itertuples(index=False)]
+    # song_data = df[['song_id', 'title', 'artist_id', 'year', 'duration']]
+    cur.execute(song_table_insert, song_data[0])
     
     # insert artist record
-    # artist_data_df = df[['artist_id', 'artist_name', 'artist_location', 'artist_latitude', 'artist_longitude']]
-    # artist_data = [list(row) for row in artist_data_df.itertuples(index=False)]
-    artist_data = df[['artist_id', 'artist_name', 'artist_location', 'artist_latitude', 'artist_longitude']]
-    cur.execute(artist_table_insert, artist_data)
+    artist_data_df = df[['artist_id', 'artist_name', 'artist_location', 'artist_latitude', 'artist_longitude']]
+    artist_data = [list(row) for row in artist_data_df.itertuples(index=False)]
+    # artist_data = df[['artist_id', 'artist_name', 'artist_location', 'artist_latitude', 'artist_longitude']]
+    cur.execute(artist_table_insert, artist_data[0])
 
 
 def process_log_file(cur, filepath):
