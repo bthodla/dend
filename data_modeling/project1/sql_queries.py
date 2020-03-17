@@ -1,16 +1,16 @@
 # DROP TABLES
 
-songplay_table_drop = "drop table songplays"
-user_table_drop = "drop table users"
-song_table_drop = "drop table songs"
-artist_table_drop = "drop table artists"
-time_table_drop = "drop table time"
+songplay_table_drop = "drop table if exists songplays"
+user_table_drop = "drop table if exists users"
+song_table_drop = "drop table if exists songs"
+artist_table_drop = "drop table if exists artists"
+time_table_drop = "drop table if exists time"
 
 # CREATE TABLES
 
 songplay_table_create = ("""
-    create table songplays (
-        songplay_id serial not null primary key, 
+    create table if not exists songplays (
+        songplay_id serial primary key, 
         start_time timestamp, 
         user_id varchar references users(user_id), 
         level varchar, 
@@ -23,8 +23,8 @@ songplay_table_create = ("""
 """)
 
 user_table_create = ("""
-    create table users (
-        user_id varchar not null primary key, 
+    create table if not exists users (
+        user_id varchar primary key, 
         first_name varchar, 
         last_name varchar, 
         gender varchar, 
@@ -33,8 +33,8 @@ user_table_create = ("""
 """)
 
 song_table_create = ("""
-    create table songs (
-        song_id varchar not null primary key, 
+    create table if not exists songs (
+        song_id varchar primary key, 
         title varchar, 
         artist_id varchar, 
         year int, 
@@ -43,8 +43,8 @@ song_table_create = ("""
 """)
 
 artist_table_create = ("""
-    create table artists (
-        artist_id varchar not null primary key, 
+    create table if not exists artists (
+        artist_id varchar primary key, 
         name varchar, 
         location varchar, 
         latitude float, 
@@ -53,8 +53,8 @@ artist_table_create = ("""
 """)
 
 time_table_create = ("""
-    create table time (
-        start_time timestamp not null primary key, 
+    create table if not exists time (
+        start_time timestamp primary key, 
         hour int, 
         day int, 
         week int, 
@@ -75,7 +75,7 @@ songplay_table_insert = ("""
 user_table_insert = ("""
     insert into users (user_id, first_name, last_name, gender, level)
     values (%s, %s, %s, %s, %s)
-    ON CONFLICT DO NOTHING
+    ON CONFLICT (user_id) DO UPDATE SET level=EXCLUDED.level
 """)
 
 song_table_insert = ("""
