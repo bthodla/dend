@@ -59,6 +59,5 @@ Port: 5439
 JDBC URL: jdbc:redshift://redshift-cluster-1.cdodedeqidlv.us-east-1.redshift.amazonaws.com:5439/bt-udacity
 ODBC URL: Driver={Amazon Redshift (x64)}; Server=redshift-cluster-1.cdodedeqidlv.us-east-1.redshift.amazonaws.com; Database=bt-udacity
 
-
 Redshift Cluster Identifier: redshift-bt-cluster-1
 */
