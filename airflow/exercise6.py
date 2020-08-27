@@ -62,3 +62,5 @@ ODBC URL: Driver={Amazon Redshift (x64)}; Server=redshift-cluster-1.cdodedeqidlv
 
 Redshift Cluster Identifier: redshift-bt-cluster-1
 */
+
+http://packages.confluent.io/archive/5.4/confluent-5.4.2-2.12.tar.gz
