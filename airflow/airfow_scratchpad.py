@@ -48,10 +48,16 @@ def hello_world():
 dag = DAG(
     "lesson1.exercise2",
     start_date=datetime.datetime.now() - datetime.timedelta(days=60),
-    schedule_interval="@monthly"
+    schedule_interval="@daily"
     )
     
 task = PythonOperator(
     task_id="hello_world_task",
     python_callable=hello_world,
     dag=dag)
+
+# Setting up task dependencies
+hello_world_task >> current_time_task
+hello_world_task >> working_dir_task
+current_time_task >> complete_task
+working_dir_task >> complete_task
