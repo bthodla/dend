@@ -56,9 +56,3 @@ copy_task >> location_traffic_task
 # ODBC URL: Driver={Amazon Redshift (x64)}; Server=redshift-cluster.cdodedeqidlv.us-east-1.redshift.amazonaws.com; Database=bt-udacity
 
 # Redshift Cluster Identifier: redshift-bt-cluster-1
-
-# To compile a pythong source code file into python byte code file
-# python3 -m py_compile sql_statements.py
-
-# To compile all python source code files recursively starting from current directory
-# python3 -m compileall .
