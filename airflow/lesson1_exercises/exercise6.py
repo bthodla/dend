@@ -47,19 +47,3 @@ location_traffic_task = PostgresOperator(
 
 create_table >> copy_task
 copy_task >> location_traffic_task
-
-/*
-Conn ID: redshift
-Conn Type: Postgres
-Host: redshift-cluster-1.cdodedeqidlv.us-east-1.redshift.amazonaws.com:5439/bt-udacity
-Schema: bt-udacity
-Login: bthodla
-Password: rsawsH0bb!t
-Port: 5439
-JDBC URL: jdbc:redshift://redshift-cluster-1.cdodedeqidlv.us-east-1.redshift.amazonaws.com:5439/bt-udacity
-ODBC URL: Driver={Amazon Redshift (x64)}; Server=redshift-cluster-1.cdodedeqidlv.us-east-1.redshift.amazonaws.com; Database=bt-udacity
-
-Redshift Cluster Identifier: redshift-bt-cluster-1
-*/
-
-http://packages.confluent.io/archive/5.4/confluent-5.4.2-2.12.tar.gz

@@ -1,6 +1,3 @@
-# Instructions
-# Similar to what you saw in the demo, copy and populate the trips table. Then, add another operator which creates a traffic analysis table from the trips table you created. Note, in this class, we won’t be writing SQL -- all of the SQL statements we run against Redshift are predefined and included in your lesson.
-
 import datetime
 import logging
 
@@ -21,7 +18,7 @@ def load_data_to_redshift(*args, **kwargs):
 
 
 dag = DAG(
-    'lesson1.exercise6',
+    'lesson1.solution6',
     start_date=datetime.datetime.now()
 )
 
@@ -47,15 +44,3 @@ location_traffic_task = PostgresOperator(
 
 create_table >> copy_task
 copy_task >> location_traffic_task
-
-# Conn ID: redshift
-# Conn Type: Postgres
-# Host: redshift-cluster.cdodedeqidlv.us-east-1.redshift.amazonaws.com:5439/bt-udacity
-# Schema: bt-udacity
-# Login: bthodla
-# Password: rsawsH0bb!t
-# Port: 5439
-# JDBC URL: jdbc:redshift://redshift-cluster.cdodedeqidlv.us-east-1.redshift.amazonaws.com:5439/bt-udacity
-# ODBC URL: Driver={Amazon Redshift (x64)}; Server=redshift-cluster.cdodedeqidlv.us-east-1.redshift.amazonaws.com; Database=bt-udacity
-
-# Redshift Cluster Identifier: redshift-bt-cluster-1
