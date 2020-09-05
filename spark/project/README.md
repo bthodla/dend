@@ -2,7 +2,7 @@
 
 ## Project Scope
 
-With an increase in the user base and number of songs in its database, Sparkify wants to move this data into a data lke. The current data resides in Amazon S3 in JSON format and includes the following:
+With an increase in the user base and number of songs in its database, Sparkify wants to move this data into a data lake. The current data resides in Amazon S3 in JSON format and includes the following:
 
 - User Activity Logs
 - Song Metadata
