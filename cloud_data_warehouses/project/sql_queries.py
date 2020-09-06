@@ -5,6 +5,12 @@ import configparser
 config = configparser.ConfigParser()
 config.read('dwh.cfg')
 
+ARN=config.get('IAM_ROLE', 'ARN')
+LOG_DATA=config.get('S3', 'LOG_DATA')
+LOG_JSONPATH=config.get('S3', 'LOG_JSONPATH')
+SONG_DATA=confg.get('S3', 'SONG_DATA')
+SONGS_JSONPATH=config.get('S3', 'SONGS_JSONPATH')
+
 # DROP TABLES
 
 staging_events_table_drop = "drop table if exists staging_events"
@@ -19,7 +25,7 @@ time_table_drop = "drop table if exits time"
 
 staging_events_table_create= ("""
     create table if not exists staging_events (
-        event_id bigint identity(0,1) not null,
+        event_id int identity(0,1) not null,
         artist varchar,
         auth varchar,
         firstName varchar,
@@ -43,17 +49,17 @@ staging_events_table_create= ("""
 
 staging_songs_table_create = ("""
     create table if not exists staging_songs (
+        num_songs int not null,
         artist_id varchar not null,
-        artist_name varchar,
-        artist_location varchar,
         artist_latitude varchar,
-        arist_longitude varchar,
+        artist_longitude varchar,
+        artist_location varchar,
+        artist_name varchar,
         song_id varchar not null,
         title varchar,
         duration float,
         year int,
-        num_songs int
-    ) DISTKEY (artist_id) SORTKEY (artist_id);
+    ) DISTKEY (artist_id) SORTKEY (song_id);
 """)
 
 songplay_table_create = ("""
@@ -125,11 +131,11 @@ staging_events_copy = ("""
 staging_songs_copy = ("""
     copy staging_songs from {}
     credentials 'aws_iam_role={}'
-    format as json 'auto'
+    format as json {}
     ACCEPTINVCHARS AS '^'
     STATUPDATE ON
     region 'us-east-1'
-""").format(SONG_DATA, ARN)
+""").format(SONG_DATA, ARN, SONGS_JSONPATH)
 
 # FINAL TABLES
 
