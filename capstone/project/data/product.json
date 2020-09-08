@@ -1,0 +1,3410 @@
+[
+  {
+    "product_id": "VFIAX",
+    "product_name": "Vanguard 500 Index Admiral",
+    "tna": 163456368456,
+    "ms_rating": 5,
+    "exp_ratio": 0.05,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VTSAX",
+    "product_name": "Vanguard Total Stock Mkt Idx Adm",
+    "tna": 136131758268,
+    "ms_rating": 4,
+    "exp_ratio": 0.05,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VINIX",
+    "product_name": "Vanguard Institutional Index I",
+    "tna": 110407917518,
+    "ms_rating": 5,
+    "exp_ratio": 0.04,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VTSMX",
+    "product_name": "Vanguard Total Stock Mkt Idx Inv",
+    "tna": 98869371846,
+    "ms_rating": 4,
+    "exp_ratio": 0.16,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VIIIX",
+    "product_name": "Vanguard Institutional Index Instl Pl",
+    "tna": 93192353649,
+    "ms_rating": 5,
+    "exp_ratio": 0.02,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VGTSX",
+    "product_name": "Vanguard Total Intl Stock Index Inv",
+    "tna": 81937021336,
+    "ms_rating": 3,
+    "exp_ratio": 0.19,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "FCNTX",
+    "product_name": "Fidelity Contrafund",
+    "tna": 75239109555,
+    "ms_rating": 4,
+    "exp_ratio": 0.71,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "AMECX",
+    "product_name": "American Funds Inc Fund of Amer A",
+    "tna": 74038034448,
+    "ms_rating": 4,
+    "exp_ratio": 0.55,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "AGTHX",
+    "product_name": "American Funds Growth Fund of Amer A",
+    "tna": 72365559881,
+    "ms_rating": 3,
+    "exp_ratio": 0.65,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "CAIBX",
+    "product_name": "American Funds Capital Inc Bldr A",
+    "tna": 71981184245,
+    "ms_rating": 4,
+    "exp_ratio": 0.59,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VWENX",
+    "product_name": "Vanguard Wellington Admiral",
+    "tna": 71080590156,
+    "ms_rating": 5,
+    "exp_ratio": 0.18,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VBTLX",
+    "product_name": "Vanguard Total Bond Market Index Adm",
+    "tna": 69560710526,
+    "ms_rating": 3,
+    "exp_ratio": 0.06,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VITSX",
+    "product_name": "Vanguard Total Stock Market Idx I",
+    "tna": 67616399445,
+    "ms_rating": 4,
+    "exp_ratio": 0.04,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "PTTRX",
+    "product_name": "PIMCO Total Return Instl",
+    "tna": 58804901978,
+    "ms_rating": 4,
+    "exp_ratio": 0.46,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "AIVSX",
+    "product_name": "American Funds Invmt Co of Amer A",
+    "tna": 57215053118,
+    "ms_rating": 3,
+    "exp_ratio": 0.58,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "FUSVX",
+    "product_name": "Fidelity Spartan 500 Index Advtg",
+    "tna": 54672986785,
+    "ms_rating": 5,
+    "exp_ratio": 0.05,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "DODGX",
+    "product_name": "Dodge & Cox Stock",
+    "tna": 53716464116,
+    "ms_rating": 3,
+    "exp_ratio": 0.52,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "ABALX",
+    "product_name": "American Funds American Balanced A",
+    "tna": 53318004773,
+    "ms_rating": 4,
+    "exp_ratio": 0.58,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "DODFX",
+    "product_name": "Dodge & Cox International Stock",
+    "tna": 51604498866,
+    "ms_rating": 3,
+    "exp_ratio": 0.64,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "CWGIX",
+    "product_name": "American Funds Capital World G/I A",
+    "tna": 51573788049,
+    "ms_rating": 4,
+    "exp_ratio": 0.77,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "AWSHX",
+    "product_name": "American Funds Washington Mutual A",
+    "tna": 51367700244,
+    "ms_rating": 4,
+    "exp_ratio": 0.58,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "MWTIX",
+    "product_name": "Metropolitan West Total Return Bond I",
+    "tna": 49461319405,
+    "ms_rating": 5,
+    "exp_ratio": 0.44,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VWIUX",
+    "product_name": "Vanguard Interm-Term Tx-Ex Adm",
+    "tna": 47003934390,
+    "ms_rating": 4,
+    "exp_ratio": 0.12,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "DODIX",
+    "product_name": "Dodge & Cox Income",
+    "tna": 46108249705,
+    "ms_rating": 4,
+    "exp_ratio": 0.43,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "ANCFX",
+    "product_name": "American Funds Fundamental Invs A",
+    "tna": 45851376284,
+    "ms_rating": 3,
+    "exp_ratio": 0.6,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "FKINX",
+    "product_name": "Franklin Income A",
+    "tna": 44436833774,
+    "ms_rating": 2,
+    "exp_ratio": 0.61,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "RERGX",
+    "product_name": "American Funds Europacific Growth R6",
+    "tna": 43016729890,
+    "ms_rating": 3,
+    "exp_ratio": 0.5,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VTIAX",
+    "product_name": "Vanguard Total Intl Stock Index Admiral",
+    "tna": 41072489960,
+    "ms_rating": 3,
+    "exp_ratio": 0.12,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VITPX",
+    "product_name": "Vanguard Instl Ttl Stk Mkt Idx InstlPls",
+    "tna": 38476978339,
+    "ms_rating": 4,
+    "exp_ratio": 0.02,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VGHAX",
+    "product_name": "Vanguard Health Care Adm",
+    "tna": 37537268457,
+    "ms_rating": 5,
+    "exp_ratio": 0.31,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "VFSUX",
+    "product_name": "Vanguard Short-Term Investment-Grade Adm",
+    "tna": 36404019214,
+    "ms_rating": 4,
+    "exp_ratio": 0.1,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "ANWPX",
+    "product_name": "American Funds New Perspective A",
+    "tna": 35766643538,
+    "ms_rating": 4,
+    "exp_ratio": 0.75,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "PRGFX",
+    "product_name": "T. Rowe Price Growth Stock",
+    "tna": 35560409826,
+    "ms_rating": 4,
+    "exp_ratio": 0.67,
+    "market_cap": "Giant"
+  },
+  {
+    "product_id": "HAINX",
+    "product_name": "Harbor International Institutional",
+    "tna": 35441665468,
+    "ms_rating": 3,
+    "exp_ratio": 0.76,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VWIAX",
+    "product_name": "Vanguard Wellesley Income Admiral",
+    "tna": 33867142939,
+    "ms_rating": 5,
+    "exp_ratio": 0.16,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VBTIX",
+    "product_name": "Vanguard Total Bond Market Index I",
+    "tna": 33560090583,
+    "ms_rating": 3,
+    "exp_ratio": 0.05,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VWNAX",
+    "product_name": "Vanguard Windsor II Admiral",
+    "tna": 30938154323,
+    "ms_rating": 4,
+    "exp_ratio": 0.26,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VDIGX",
+    "product_name": "Vanguard Dividend Growth Inv",
+    "tna": 30620300837,
+    "ms_rating": 5,
+    "exp_ratio": 0.33,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VTTVX",
+    "product_name": "Vanguard Target Retirement 2025 Inv",
+    "tna": 30439909700,
+    "ms_rating": 5,
+    "exp_ratio": 0.15,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FCNKX",
+    "product_name": "Fidelity Contrafund K",
+    "tna": 30285606478,
+    "ms_rating": 4,
+    "exp_ratio": 0.61,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FLPSX",
+    "product_name": "Fidelity Low-Priced Stock",
+    "tna": 27956501576,
+    "ms_rating": 4,
+    "exp_ratio": 0.79,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FXSIX",
+    "product_name": "Fidelity Spartan 500 Index Instl",
+    "tna": 27221922874,
+    "ms_rating": 5,
+    "exp_ratio": 0.04,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VIMAX",
+    "product_name": "Vanguard Mid Cap Index Adm",
+    "tna": 26851674366,
+    "ms_rating": 4,
+    "exp_ratio": 0.08,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VTWNX",
+    "product_name": "Vanguard Target Retirement 2020 Inv",
+    "tna": 26614769655,
+    "ms_rating": 5,
+    "exp_ratio": 0.14,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VFINX",
+    "product_name": "Vanguard 500 Index Inv",
+    "tna": 26161625157,
+    "ms_rating": 4,
+    "exp_ratio": 0.16,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "AEPGX",
+    "product_name": "American Funds Europacific Growth A",
+    "tna": 25678151371,
+    "ms_rating": 2,
+    "exp_ratio": 0.83,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "AMCPX",
+    "product_name": "American Funds AMCAP A",
+    "tna": 25577046631,
+    "ms_rating": 3,
+    "exp_ratio": 0.67,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "PREIX",
+    "product_name": "T. Rowe Price Equity Index 500",
+    "tna": 25520572294,
+    "ms_rating": 4,
+    "exp_ratio": 0.27,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VBMPX",
+    "product_name": "Vanguard Total Bond Market Idx InstlPls",
+    "tna": 25366147048,
+    "ms_rating": 3,
+    "exp_ratio": 0.04,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "TRBCX",
+    "product_name": "T. Rowe Price Blue Chip Growth",
+    "tna": 25091434429,
+    "ms_rating": 4,
+    "exp_ratio": 0.71,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "PIMIX",
+    "product_name": "PIMCO Income Instl",
+    "tna": 24369563456,
+    "ms_rating": 5,
+    "exp_ratio": 0.45,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "TGBAX",
+    "product_name": "Templeton Global Bond Adv",
+    "tna": 24287719598,
+    "ms_rating": 4,
+    "exp_ratio": 0.64,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "PRWCX",
+    "product_name": "T. Rowe Price Capital Appreciation",
+    "tna": 24102203343,
+    "ms_rating": 5,
+    "exp_ratio": 0.7,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VFIDX",
+    "product_name": "Vanguard Interm-Term Investment-Grde Adm",
+    "tna": 23893370289,
+    "ms_rating": 4,
+    "exp_ratio": 0.1,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VTHRX",
+    "product_name": "Vanguard Target Retirement 2030 Inv",
+    "tna": 23677472017,
+    "ms_rating": 4,
+    "exp_ratio": 0.15,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VSMAX",
+    "product_name": "Vanguard Small Cap Index Adm",
+    "tna": 23436347027,
+    "ms_rating": 4,
+    "exp_ratio": 0.08,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "AMRMX",
+    "product_name": "American Funds American Mutual A",
+    "tna": 23432533409,
+    "ms_rating": 4,
+    "exp_ratio": 0.58,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FCISX",
+    "product_name": "Franklin Income C",
+    "tna": 23387179647,
+    "ms_rating": 2,
+    "exp_ratio": 1.11,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VTTHX",
+    "product_name": "Vanguard Target Retirement 2035 Inv",
+    "tna": 23364811124,
+    "ms_rating": 4,
+    "exp_ratio": 0.15,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "OAKIX",
+    "product_name": "Oakmark International I",
+    "tna": 22561381082,
+    "ms_rating": 3,
+    "exp_ratio": 0.95,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "SWPPX",
+    "product_name": "Schwab S&P; 500 Index",
+    "tna": 22343795316,
+    "ms_rating": 4,
+    "exp_ratio": 0.09,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "HACAX",
+    "product_name": "Harbor Capital Appreciation Instl",
+    "tna": 21692162844,
+    "ms_rating": 4,
+    "exp_ratio": 0.65,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "RPMGX",
+    "product_name": "T. Rowe Price Mid-Cap Growth",
+    "tna": 21631512024,
+    "ms_rating": 5,
+    "exp_ratio": 0.77,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FDGRX",
+    "product_name": "Fidelity Growth Company",
+    "tna": 21487990840,
+    "ms_rating": 5,
+    "exp_ratio": 0.88,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "TRVLX",
+    "product_name": "T. Rowe Price Value",
+    "tna": 21143464644,
+    "ms_rating": 4,
+    "exp_ratio": 0.81,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VMLUX",
+    "product_name": "Vanguard Ltd-Term Tx-Ex Adm",
+    "tna": 21077520996,
+    "ms_rating": 4,
+    "exp_ratio": 0.12,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FSTVX",
+    "product_name": "Fidelity Spartan Total Mkt Idx Advtg",
+    "tna": 20720728807,
+    "ms_rating": 4,
+    "exp_ratio": 0.05,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "SGIIX",
+    "product_name": "First Eagle Global I",
+    "tna": 20625401843,
+    "ms_rating": 5,
+    "exp_ratio": 0.84,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FBALX",
+    "product_name": "Fidelity Balanced",
+    "tna": 20240568242,
+    "ms_rating": 5,
+    "exp_ratio": 0.56,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "ABNDX",
+    "product_name": "American Funds Bond Fund of Amer A",
+    "tna": 20238647439,
+    "ms_rating": 2,
+    "exp_ratio": 0.6,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "TRRBX",
+    "product_name": "T. Rowe Price Retirement 2020",
+    "tna": 20071176585,
+    "ms_rating": 4,
+    "exp_ratio": 0.66,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VIFSX",
+    "product_name": "Vanguard 500 Index Signal",
+    "tna": 19786735873,
+    "ms_rating": 4,
+    "exp_ratio": 0.05,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FTBFX",
+    "product_name": "Fidelity Total Bond",
+    "tna": 19442617882,
+    "ms_rating": 4,
+    "exp_ratio": 0.45,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FPURX",
+    "product_name": "Fidelity Puritan",
+    "tna": 19380397785,
+    "ms_rating": 4,
+    "exp_ratio": 0.56,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VWELX",
+    "product_name": "Vanguard Wellington Inv",
+    "tna": 19248272540,
+    "ms_rating": 5,
+    "exp_ratio": 0.26,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VTABX",
+    "product_name": "Vanguard Total Intl Bd Idx Admiral",
+    "tna": 18569418744,
+    "ms_rating": 5,
+    "exp_ratio": 0.14,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VGSTX",
+    "product_name": "Vanguard STAR Inv",
+    "tna": 18513132897,
+    "ms_rating": 4,
+    "exp_ratio": 0.34,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VGSLX",
+    "product_name": "Vanguard REIT Index Adm",
+    "tna": 18358314888,
+    "ms_rating": 4,
+    "exp_ratio": 0.12,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VFIJX",
+    "product_name": "Vanguard GNMA Adm",
+    "tna": 18212928410,
+    "ms_rating": 4,
+    "exp_ratio": 0.11,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "PRFDX",
+    "product_name": "T. Rowe Price Equity Income",
+    "tna": 18043447788,
+    "ms_rating": 3,
+    "exp_ratio": 0.66,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VTSNX",
+    "product_name": "Vanguard Total Intl Stock Index I",
+    "tna": 17844608524,
+    "ms_rating": 3,
+    "exp_ratio": 0.1,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "MALOX",
+    "product_name": "BlackRock Global Allocation Instl",
+    "tna": 17826355256,
+    "ms_rating": 4,
+    "exp_ratio": 0.87,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "SMCWX",
+    "product_name": "American Funds SMALLCAP World A",
+    "tna": 17482743521,
+    "ms_rating": 3,
+    "exp_ratio": 1.07,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VTXVX",
+    "product_name": "Vanguard Target Retirement 2015 Inv",
+    "tna": 17367738897,
+    "ms_rating": 4,
+    "exp_ratio": 0.14,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VIGAX",
+    "product_name": "Vanguard Growth Index Adm",
+    "tna": 17293024735,
+    "ms_rating": 4,
+    "exp_ratio": 0.08,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VBIAX",
+    "product_name": "Vanguard Balanced Index Adm",
+    "tna": 17120001437,
+    "ms_rating": 5,
+    "exp_ratio": 0.08,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "MWTRX",
+    "product_name": "Metropolitan West Total Return Bond M",
+    "tna": 16961836684,
+    "ms_rating": 5,
+    "exp_ratio": 0.69,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VEIRX",
+    "product_name": "Vanguard Equity-Income Adm",
+    "tna": 16761769514,
+    "ms_rating": 5,
+    "exp_ratio": 0.17,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "PAAIX",
+    "product_name": "PIMCO All Asset Instl",
+    "tna": 16527566603,
+    "ms_rating": 3,
+    "exp_ratio": 0.87,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VFORX",
+    "product_name": "Vanguard Target Retirement 2040 Inv",
+    "tna": 16400492926,
+    "ms_rating": 4,
+    "exp_ratio": 0.16,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "TRRHX",
+    "product_name": "T. Rowe Price Retirement 2025",
+    "tna": 16270211523,
+    "ms_rating": 4,
+    "exp_ratio": 0.69,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FPACX",
+    "product_name": "FPA Crescent",
+    "tna": 16261821465,
+    "ms_rating": 4,
+    "exp_ratio": 1.09,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "SGENX",
+    "product_name": "First Eagle Global A",
+    "tna": 15874698588,
+    "ms_rating": 5,
+    "exp_ratio": 1.11,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "TPINX",
+    "product_name": "Templeton Global Bond A",
+    "tna": 15571928724,
+    "ms_rating": 3,
+    "exp_ratio": 0.89,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "OAKBX",
+    "product_name": "Oakmark Equity & Income I",
+    "tna": 15446271343,
+    "ms_rating": 4,
+    "exp_ratio": 0.75,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FGCKX",
+    "product_name": "Fidelity Growth Company K",
+    "tna": 15127417020,
+    "ms_rating": 4,
+    "exp_ratio": 0.77,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VTIVX",
+    "product_name": "Vanguard Target Retirement 2045 Inv",
+    "tna": 15087517699,
+    "ms_rating": 4,
+    "exp_ratio": 0.16,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VWEAX",
+    "product_name": "Vanguard High-Yield Corporate Adm",
+    "tna": 15027640534,
+    "ms_rating": 5,
+    "exp_ratio": 0.13,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "OAKMX",
+    "product_name": "Oakmark I",
+    "tna": 15009496097,
+    "ms_rating": 3,
+    "exp_ratio": 0.85,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VEMPX",
+    "product_name": "Vanguard Extended Market Idx InstlPlus",
+    "tna": 14771513216,
+    "ms_rating": 3,
+    "exp_ratio": 0.05,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "PRNHX",
+    "product_name": "T. Rowe Price New Horizons",
+    "tna": 14550033253,
+    "ms_rating": 5,
+    "exp_ratio": 0.79,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VWILX",
+    "product_name": "Vanguard International Growth Adm",
+    "tna": 14546575845,
+    "ms_rating": 3,
+    "exp_ratio": 0.34,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "MDLOX",
+    "product_name": "BlackRock Global Allocation Inv A",
+    "tna": 14272255294,
+    "ms_rating": 3,
+    "exp_ratio": 1.14,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VWNFX",
+    "product_name": "Vanguard Windsor II Inv",
+    "tna": 14083164567,
+    "ms_rating": 3,
+    "exp_ratio": 0.34,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "DODBX",
+    "product_name": "Dodge & Cox Balanced",
+    "tna": 13924408100,
+    "ms_rating": 4,
+    "exp_ratio": 0.53,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VWINX",
+    "product_name": "Vanguard Wellesley Income Inv",
+    "tna": 13739691905,
+    "ms_rating": 5,
+    "exp_ratio": 0.23,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VEXAX",
+    "product_name": "Vanguard Extended Market Idx Adm",
+    "tna": 13710602931,
+    "ms_rating": 3,
+    "exp_ratio": 0.09,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FBGRX",
+    "product_name": "Fidelity Blue Chip Growth",
+    "tna": 13558021431,
+    "ms_rating": 4,
+    "exp_ratio": 0.89,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "TRRDX",
+    "product_name": "T. Rowe Price Retirement 2040",
+    "tna": 13164874000,
+    "ms_rating": 4,
+    "exp_ratio": 0.75,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "FSEVX",
+    "product_name": "Fidelity Spartan Extnd Mkt Idx Advtg",
+    "tna": 13084970594,
+    "ms_rating": 3,
+    "exp_ratio": 0.07,
+    "market_cap": "Large"
+  },
+  {
+    "product_id": "VMCIX",
+    "product_name": "Vanguard Mid Cap Index I",
+    "tna": 12937764798,
+    "ms_rating": 4,
+    "exp_ratio": 0.07,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "ODVYX",
+    "product_name": "Oppenheimer Developing Markets Y",
+    "tna": 12830999417,
+    "ms_rating": 4,
+    "exp_ratio": 1.05,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FMAGX",
+    "product_name": "Fidelity Magellan",
+    "tna": 12763751052,
+    "ms_rating": 2,
+    "exp_ratio": 0.85,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VSMGX",
+    "product_name": "Vanguard LifeStrategy Moderate Gr Inv",
+    "tna": 12723904649,
+    "ms_rating": 3,
+    "exp_ratio": 0.14,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TRLGX",
+    "product_name": "T. Rowe Price Instl Large Cap Growth",
+    "tna": 12559376057,
+    "ms_rating": 4,
+    "exp_ratio": 0.56,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "DLTNX",
+    "product_name": "DoubleLine Total Return Bond N",
+    "tna": 12272460854,
+    "ms_rating": 5,
+    "exp_ratio": 0.72,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "MINIX",
+    "product_name": "MFS International Value I",
+    "tna": 12096044463,
+    "ms_rating": 5,
+    "exp_ratio": 0.78,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FKTFX",
+    "product_name": "Franklin CA Tax-Free Income A",
+    "tna": 12011450089,
+    "ms_rating": 4,
+    "exp_ratio": 0.58,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "MCLOX",
+    "product_name": "BlackRock Global Allocation Inv C",
+    "tna": 11923467109,
+    "ms_rating": 3,
+    "exp_ratio": 1.88,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VBILX",
+    "product_name": "Vanguard Interm-Term Bond Index Adm",
+    "tna": 11866794225,
+    "ms_rating": 5,
+    "exp_ratio": 0.09,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TRRJX",
+    "product_name": "T. Rowe Price Retirement 2035",
+    "tna": 11841494833,
+    "ms_rating": 5,
+    "exp_ratio": 0.74,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FFFDX",
+    "product_name": "Fidelity Freedom 2020",
+    "tna": 11719607844,
+    "ms_rating": 3,
+    "exp_ratio": 0.67,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PRHSX",
+    "product_name": "T. Rowe Price Health Sciences",
+    "tna": 11696140531,
+    "ms_rating": 5,
+    "exp_ratio": 0.76,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VAIPX",
+    "product_name": "Vanguard Inflation-Protected Secs Adm",
+    "tna": 11545381104,
+    "ms_rating": 4,
+    "exp_ratio": 0.1,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FESGX",
+    "product_name": "First Eagle Global C",
+    "tna": 11536269806,
+    "ms_rating": 4,
+    "exp_ratio": 1.86,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VASGX",
+    "product_name": "Vanguard LifeStrategy Growth Inv",
+    "tna": 11508446812,
+    "ms_rating": 4,
+    "exp_ratio": 0.15,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "MADVX",
+    "product_name": "BlackRock Equity Dividend Instl",
+    "tna": 11489665641,
+    "ms_rating": 4,
+    "exp_ratio": 0.7,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FRDPX",
+    "product_name": "Franklin Rising Dividends A",
+    "tna": 11456336118,
+    "ms_rating": 3,
+    "exp_ratio": 0.92,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VWNEX",
+    "product_name": "Vanguard Windsor Admiral",
+    "tna": 11446899070,
+    "ms_rating": 3,
+    "exp_ratio": 0.29,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VVIAX",
+    "product_name": "Vanguard Value Index Adm",
+    "tna": 11446395254,
+    "ms_rating": 4,
+    "exp_ratio": 0.08,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FDIVX",
+    "product_name": "Fidelity Diversified International",
+    "tna": 11198258600,
+    "ms_rating": 3,
+    "exp_ratio": 1,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VMCPX",
+    "product_name": "Vanguard Mid Cap Index InstlPlus",
+    "tna": 11183856203,
+    "ms_rating": 5,
+    "exp_ratio": 0.05,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VGHCX",
+    "product_name": "Vanguard Health Care Inv",
+    "tna": 11054806931,
+    "ms_rating": 4,
+    "exp_ratio": 0.36,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "LALDX",
+    "product_name": "Lord Abbett Short Duration Income A",
+    "tna": 11019072540,
+    "ms_rating": 4,
+    "exp_ratio": 0.6,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "NEWFX",
+    "product_name": "American Funds New World A",
+    "tna": 10915114968,
+    "ms_rating": 5,
+    "exp_ratio": 1.04,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VSCIX",
+    "product_name": "Vanguard Small Cap Index I",
+    "tna": 10901529457,
+    "ms_rating": 4,
+    "exp_ratio": 0.07,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TEDIX",
+    "product_name": "Franklin Mutual Global Discovery A",
+    "tna": 10614350699,
+    "ms_rating": 4,
+    "exp_ratio": 1.24,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TRMCX",
+    "product_name": "T. Rowe Price Mid-Cap Value",
+    "tna": 10555750794,
+    "ms_rating": 5,
+    "exp_ratio": 0.8,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TEPLX",
+    "product_name": "Templeton Growth A",
+    "tna": 10544639206,
+    "ms_rating": 1,
+    "exp_ratio": 1.05,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VTINX",
+    "product_name": "Vanguard Target Retirement Income Inv",
+    "tna": 10527205716,
+    "ms_rating": 5,
+    "exp_ratio": 0.14,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VHCAX",
+    "product_name": "Vanguard Capital Opportunity Adm",
+    "tna": 10455918665,
+    "ms_rating": 4,
+    "exp_ratio": 0.38,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FLMVX",
+    "product_name": "JPMorgan Mid Cap Value Instl",
+    "tna": 10309928701,
+    "ms_rating": 5,
+    "exp_ratio": 0.75,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "LSBDX",
+    "product_name": "Loomis Sayles Bond Instl",
+    "tna": 10237349553,
+    "ms_rating": 3,
+    "exp_ratio": 0.64,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FFFEX",
+    "product_name": "Fidelity Freedom 2030",
+    "tna": 10217763430,
+    "ms_rating": 3,
+    "exp_ratio": 0.75,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FAGIX",
+    "product_name": "Fidelity Capital & Income",
+    "tna": 10105363953,
+    "ms_rating": 5,
+    "exp_ratio": 0.75,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "REREX",
+    "product_name": "American Funds Europacific Growth R4",
+    "tna": 9960669507,
+    "ms_rating": 3,
+    "exp_ratio": 0.85,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FBIOX",
+    "product_name": "Fidelity Select Biotechnology Portfolio",
+    "tna": 9833324678,
+    "ms_rating": 3,
+    "exp_ratio": 0.73,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PONDX",
+    "product_name": "PIMCO Income D",
+    "tna": 9796297965,
+    "ms_rating": 5,
+    "exp_ratio": 0.79,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "ACEIX",
+    "product_name": "Invesco Equity and Income A",
+    "tna": 9751431481,
+    "ms_rating": 3,
+    "exp_ratio": 0.8,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VFSTX",
+    "product_name": "Vanguard Short-Term Investment-Grade Inv",
+    "tna": 9648694128,
+    "ms_rating": 4,
+    "exp_ratio": 0.2,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "ANEFX",
+    "product_name": "American Funds New Economy A",
+    "tna": 9607742260,
+    "ms_rating": 2,
+    "exp_ratio": 0.78,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "GSZIX",
+    "product_name": "Goldman Sachs Strategic Income Instl",
+    "tna": 9477737108,
+    "ms_rating": 3,
+    "exp_ratio": 0.57,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VIGIX",
+    "product_name": "Vanguard Growth Index I",
+    "tna": 9415844658,
+    "ms_rating": 4,
+    "exp_ratio": 0.07,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "LZEMX",
+    "product_name": "Lazard Emerging Markets Equity Instl",
+    "tna": 9244234524,
+    "ms_rating": 3,
+    "exp_ratio": 1.1,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FOCPX",
+    "product_name": "Fidelity OTC Portfolio",
+    "tna": 9087947892,
+    "ms_rating": 5,
+    "exp_ratio": 0.83,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PRBLX",
+    "product_name": "Parnassus Core Equity Investor",
+    "tna": 8958080459,
+    "ms_rating": 5,
+    "exp_ratio": 0.87,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VIEIX",
+    "product_name": "Vanguard Extended Market Idx I",
+    "tna": 8926035926,
+    "ms_rating": 3,
+    "exp_ratio": 0.07,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VFIFX",
+    "product_name": "Vanguard Target Retirement 2050 Inv",
+    "tna": 8922101835,
+    "ms_rating": 4,
+    "exp_ratio": 0.16,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TBGVX",
+    "product_name": "Tweedy, Browne Global Value",
+    "tna": 8872281960,
+    "ms_rating": 5,
+    "exp_ratio": 1.37,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "YACKX",
+    "product_name": "AMG Yacktman Service",
+    "tna": 8811791120,
+    "ms_rating": 4,
+    "exp_ratio": 0.74,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VASVX",
+    "product_name": "Vanguard Selected Value Inv",
+    "tna": 8774461926,
+    "ms_rating": 4,
+    "exp_ratio": 0.39,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VTMGX",
+    "product_name": "Vanguard Developed Markets Idx Admiral",
+    "tna": 8732084865,
+    "ms_rating": 4,
+    "exp_ratio": 0.09,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "RERFX",
+    "product_name": "American Funds Europacific Growth R5",
+    "tna": 8587193379,
+    "ms_rating": 4,
+    "exp_ratio": 0.54,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VFIIX",
+    "product_name": "Vanguard GNMA Inv",
+    "tna": 8544282760,
+    "ms_rating": 4,
+    "exp_ratio": 0.21,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FKTIX",
+    "product_name": "Franklin Federal Tax-Free Income A",
+    "tna": 8425809100,
+    "ms_rating": 3,
+    "exp_ratio": 0.62,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "ARTIX",
+    "product_name": "Artisan International Investor",
+    "tna": 8402153791,
+    "ms_rating": 3,
+    "exp_ratio": 1.17,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TRRGX",
+    "product_name": "T. Rowe Price Retirement 2015",
+    "tna": 8366085374,
+    "ms_rating": 4,
+    "exp_ratio": 0.62,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "OTCFX",
+    "product_name": "T. Rowe Price Small-Cap Stock",
+    "tna": 8348327745,
+    "ms_rating": 4,
+    "exp_ratio": 0.9,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FSITX",
+    "product_name": "Fidelity Spartan US Bond Idx Advtg",
+    "tna": 8322834248,
+    "ms_rating": 3,
+    "exp_ratio": 0.05,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VEMAX",
+    "product_name": "Vanguard Emerging Mkts Stock Idx Adm",
+    "tna": 8282217063,
+    "ms_rating": 3,
+    "exp_ratio": 0.15,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FSIVX",
+    "product_name": "Fidelity Spartan Intl Idx Advtg",
+    "tna": 8204230212,
+    "ms_rating": 3,
+    "exp_ratio": 0.08,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VGSNX",
+    "product_name": "Vanguard REIT Index I",
+    "tna": 7964365439,
+    "ms_rating": 4,
+    "exp_ratio": 0.1,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VAFAX",
+    "product_name": "Invesco American Franchise A",
+    "tna": 7925708469,
+    "ms_rating": 2,
+    "exp_ratio": 1.05,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VSCGX",
+    "product_name": "Vanguard LifeStrategy Cnsrv Gr Inv",
+    "tna": 7917595862,
+    "ms_rating": 4,
+    "exp_ratio": 0.13,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VPCCX",
+    "product_name": "Vanguard PRIMECAP Core Inv",
+    "tna": 7883580590,
+    "ms_rating": 4,
+    "exp_ratio": 0.47,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VIVIX",
+    "product_name": "Vanguard Value Index I",
+    "tna": 7674250129,
+    "ms_rating": 4,
+    "exp_ratio": 0.07,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TWCUX",
+    "product_name": "American Century Ultra Inv",
+    "tna": 7649803826,
+    "ms_rating": 4,
+    "exp_ratio": 0.98,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FKGRX",
+    "product_name": "Franklin Growth A",
+    "tna": 7637729854,
+    "ms_rating": 3,
+    "exp_ratio": 0.88,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VTRIX",
+    "product_name": "Vanguard International Value Inv",
+    "tna": 7631273481,
+    "ms_rating": 3,
+    "exp_ratio": 0.46,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "DFFVX",
+    "product_name": "DFA US Targeted Value I",
+    "tna": 7613006929,
+    "ms_rating": 3,
+    "exp_ratio": 0.37,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PONAX",
+    "product_name": "PIMCO Income A",
+    "tna": 7608090475,
+    "ms_rating": 5,
+    "exp_ratio": 0.85,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FSICX",
+    "product_name": "Fidelity Strategic Income",
+    "tna": 7449294466,
+    "ms_rating": 4,
+    "exp_ratio": 0.71,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PTTAX",
+    "product_name": "PIMCO Total Return A",
+    "tna": 7424935028,
+    "ms_rating": 3,
+    "exp_ratio": 0.85,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FSPHX",
+    "product_name": "Fidelity Select Health Care Portfolio",
+    "tna": 7422917830,
+    "ms_rating": 4,
+    "exp_ratio": 0.73,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VSIAX",
+    "product_name": "Vanguard Small Cap Value Index Admiral",
+    "tna": 7416818605,
+    "ms_rating": 5,
+    "exp_ratio": 0.08,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "MDISX",
+    "product_name": "Franklin Mutual Global Discovery Z",
+    "tna": 7351668026,
+    "ms_rating": 4,
+    "exp_ratio": 0.99,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VEXRX",
+    "product_name": "Vanguard Explorer Adm",
+    "tna": 7309709743,
+    "ms_rating": 3,
+    "exp_ratio": 0.35,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PRHYX",
+    "product_name": "T. Rowe Price High-Yield",
+    "tna": 7187573303,
+    "ms_rating": 4,
+    "exp_ratio": 0.74,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "BALCX",
+    "product_name": "American Funds American Balanced C",
+    "tna": 7183238843,
+    "ms_rating": 5,
+    "exp_ratio": 1.38,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FDVLX",
+    "product_name": "Fidelity Value",
+    "tna": 7056540268,
+    "ms_rating": 3,
+    "exp_ratio": 0.84,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PONCX",
+    "product_name": "PIMCO Income C",
+    "tna": 6964472520,
+    "ms_rating": 5,
+    "exp_ratio": 1.6,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TRRKX",
+    "product_name": "T. Rowe Price Retirement 2045",
+    "tna": 6915730244,
+    "ms_rating": 4,
+    "exp_ratio": 0.75,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "MUTHX",
+    "product_name": "Franklin Mutual Shares Z",
+    "tna": 6888073583,
+    "ms_rating": 4,
+    "exp_ratio": 0.81,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "LDLAX",
+    "product_name": "Lord Abbett Short Duration Income C",
+    "tna": 6851481603,
+    "ms_rating": 4,
+    "exp_ratio": 1.25,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VGELX",
+    "product_name": "Vanguard Energy Adm",
+    "tna": 6747307030,
+    "ms_rating": 4,
+    "exp_ratio": 0.31,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PRSVX",
+    "product_name": "T. Rowe Price Small-Cap Value",
+    "tna": 6724662160,
+    "ms_rating": 4,
+    "exp_ratio": 0.92,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VBMFX",
+    "product_name": "Vanguard Total Bond Market Index Inv",
+    "tna": 6631071243,
+    "ms_rating": 3,
+    "exp_ratio": 0.16,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "ODMAX",
+    "product_name": "Oppenheimer Developing Markets A",
+    "tna": 6618464318,
+    "ms_rating": 4,
+    "exp_ratio": 1.3,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FIGRX",
+    "product_name": "Fidelity International Discovery",
+    "tna": 6491385843,
+    "ms_rating": 3,
+    "exp_ratio": 0.99,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "SNXFX",
+    "product_name": "Schwab 1000 Index",
+    "tna": 6458666555,
+    "ms_rating": 4,
+    "exp_ratio": 0.29,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "NYVTX",
+    "product_name": "Davis NY Venture A",
+    "tna": 6458047153,
+    "ms_rating": 2,
+    "exp_ratio": 0.86,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VWIGX",
+    "product_name": "Vanguard International Growth Inv",
+    "tna": 6443729828,
+    "ms_rating": 3,
+    "exp_ratio": 0.47,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FFFFX",
+    "product_name": "Fidelity Freedom 2040",
+    "tna": 6441251236,
+    "ms_rating": 3,
+    "exp_ratio": 0.77,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "ACSTX",
+    "product_name": "Invesco Comstock A",
+    "tna": 6375517741,
+    "ms_rating": 2,
+    "exp_ratio": 0.83,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FGMNX",
+    "product_name": "Fidelity GNMA",
+    "tna": 6318208993,
+    "ms_rating": 4,
+    "exp_ratio": 0.45,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "POAGX",
+    "product_name": "PRIMECAP Odyssey Aggressive Growth",
+    "tna": 6317658427,
+    "ms_rating": 5,
+    "exp_ratio": 0.62,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TWEIX",
+    "product_name": "American Century Equity Income Inv",
+    "tna": 6279043252,
+    "ms_rating": 5,
+    "exp_ratio": 0.93,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "RPSIX",
+    "product_name": "T. Rowe Price Spectrum Income",
+    "tna": 6267013032,
+    "ms_rating": 4,
+    "exp_ratio": 0.69,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "CIBCX",
+    "product_name": "American Funds Capital Inc Bldr C",
+    "tna": 6246303456,
+    "ms_rating": 4,
+    "exp_ratio": 1.38,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "POGRX",
+    "product_name": "PRIMECAP Odyssey Growth",
+    "tna": 6192767190,
+    "ms_rating": 4,
+    "exp_ratio": 0.64,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "IFACX",
+    "product_name": "American Funds Inc Fund of Amer C",
+    "tna": 6111182837,
+    "ms_rating": 4,
+    "exp_ratio": 1.35,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VSGAX",
+    "product_name": "Vanguard Small Cap Growth Index Admiral",
+    "tna": 6055637920,
+    "ms_rating": 4,
+    "exp_ratio": 0.08,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "CSRSX",
+    "product_name": "Cohen & Steers Realty Shares",
+    "tna": 5960778198,
+    "ms_rating": 4,
+    "exp_ratio": 0.96,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TRREX",
+    "product_name": "T. Rowe Price Real Estate",
+    "tna": 5945681681,
+    "ms_rating": 4,
+    "exp_ratio": 0.76,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "MDDVX",
+    "product_name": "BlackRock Equity Dividend Inv A",
+    "tna": 5931655307,
+    "ms_rating": 4,
+    "exp_ratio": 0.97,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PRRIX",
+    "product_name": "PIMCO Real Return Instl",
+    "tna": 5779837834,
+    "ms_rating": 5,
+    "exp_ratio": 0.45,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VTENX",
+    "product_name": "Vanguard Target Retirement 2010 Inv",
+    "tna": 5748117720,
+    "ms_rating": 5,
+    "exp_ratio": 0.14,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FDGFX",
+    "product_name": "Fidelity Dividend Growth",
+    "tna": 5747986597,
+    "ms_rating": 2,
+    "exp_ratio": 0.69,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VSEQX",
+    "product_name": "Vanguard Strategic Equity Inv",
+    "tna": 5717654076,
+    "ms_rating": 4,
+    "exp_ratio": 0.21,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FFRHX",
+    "product_name": "Fidelity Floating Rate High Income",
+    "tna": 5710219358,
+    "ms_rating": 4,
+    "exp_ratio": 0.7,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "JANDX",
+    "product_name": "Janus D",
+    "tna": 5701160539,
+    "ms_rating": 3,
+    "exp_ratio": 0.77,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TIBCX",
+    "product_name": "Thornburg Investment Income Builder C",
+    "tna": 5559689246,
+    "ms_rating": 3,
+    "exp_ratio": 2.06,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PTRAX",
+    "product_name": "PIMCO Total Return Admin",
+    "tna": 5469097811,
+    "ms_rating": 4,
+    "exp_ratio": 0.71,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VEIPX",
+    "product_name": "Vanguard Equity-Income Inv",
+    "tna": 5445297543,
+    "ms_rating": 5,
+    "exp_ratio": 0.26,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "LAFFX",
+    "product_name": "Lord Abbett Affiliated A",
+    "tna": 5416649327,
+    "ms_rating": 2,
+    "exp_ratio": 0.74,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "VHDYX",
+    "product_name": "Vanguard High Dividend Yield Index Inv",
+    "tna": 5406513800,
+    "ms_rating": 5,
+    "exp_ratio": 0.16,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "POSKX",
+    "product_name": "PRIMECAP Odyssey Stock",
+    "tna": 5400178164,
+    "ms_rating": 4,
+    "exp_ratio": 0.65,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "MSIGX",
+    "product_name": "Oppenheimer Main Street A",
+    "tna": 5378303414,
+    "ms_rating": 3,
+    "exp_ratio": 0.94,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FGRIX",
+    "product_name": "Fidelity Growth & Income Portfolio",
+    "tna": 5326551260,
+    "ms_rating": 2,
+    "exp_ratio": 0.67,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PMEGX",
+    "product_name": "T. Rowe Price Instl Mid-Cap Equity Gr",
+    "tna": 5294263061,
+    "ms_rating": 5,
+    "exp_ratio": 0.61,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FSCRX",
+    "product_name": "Fidelity Small Cap Discovery",
+    "tna": 5223891925,
+    "ms_rating": 5,
+    "exp_ratio": 1.01,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FRESX",
+    "product_name": "Fidelity Real Estate Investment Port",
+    "tna": 5212853639,
+    "ms_rating": 4,
+    "exp_ratio": 0.78,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PTTDX",
+    "product_name": "PIMCO Total Return D",
+    "tna": 5198345638,
+    "ms_rating": 4,
+    "exp_ratio": 0.75,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FMCSX",
+    "product_name": "Fidelity Mid-Cap Stock",
+    "tna": 5160039708,
+    "ms_rating": 4,
+    "exp_ratio": 0.73,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "TWCGX",
+    "product_name": "American Century Growth Inv",
+    "tna": 5156163073,
+    "ms_rating": 4,
+    "exp_ratio": 0.97,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "PCRIX",
+    "product_name": "PIMCO Commodity Real Ret Strat Instl",
+    "tna": 5046315191,
+    "ms_rating": 3,
+    "exp_ratio": 0.74,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "FDCAX",
+    "product_name": "Fidelity Capital Appreciation",
+    "tna": 4999308754,
+    "ms_rating": 3,
+    "exp_ratio": 0.83,
+    "market_cap": "Mid"
+  },
+  {
+    "product_id": "JNBCX",
+    "product_name": "JPMorgan Income Builder C",
+    "tna": 4987727111,
+    "ms_rating": 3,
+    "exp_ratio": 1.25,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "GFACX",
+    "product_name": "American Funds Growth Fund of Amer C",
+    "tna": 4941328969,
+    "ms_rating": 3,
+    "exp_ratio": 1.45,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FUSEX",
+    "product_name": "Fidelity Spartan 500 Index Inv",
+    "tna": 4920010324,
+    "ms_rating": 4,
+    "exp_ratio": 0.09,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "SHRAX",
+    "product_name": "ClearBridge Aggressive Growth A",
+    "tna": 4879576368,
+    "ms_rating": 2,
+    "exp_ratio": 1.13,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VWNDX",
+    "product_name": "Vanguard Windsor Inv",
+    "tna": 4878372137,
+    "ms_rating": 3,
+    "exp_ratio": 0.39,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "TRRMX",
+    "product_name": "T. Rowe Price Retirement 2050",
+    "tna": 4862258663,
+    "ms_rating": 4,
+    "exp_ratio": 0.75,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "TEGBX",
+    "product_name": "Templeton Global Bond C",
+    "tna": 4856554945,
+    "ms_rating": 4,
+    "exp_ratio": 1.29,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "ITHAX",
+    "product_name": "Hartford Capital Appreciation A",
+    "tna": 4848914857,
+    "ms_rating": 1,
+    "exp_ratio": 1.09,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "OAKLX",
+    "product_name": "Oakmark Select I",
+    "tna": 4818271871,
+    "ms_rating": 2,
+    "exp_ratio": 0.95,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "OSTIX",
+    "product_name": "Osterweis Strategic Income",
+    "tna": 4802583796,
+    "ms_rating": 3,
+    "exp_ratio": 0.83,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "JABAX",
+    "product_name": "Janus Balanced T",
+    "tna": 4790829017,
+    "ms_rating": 5,
+    "exp_ratio": 0.83,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRDGX",
+    "product_name": "T. Rowe Price Dividend Growth",
+    "tna": 4787659564,
+    "ms_rating": 5,
+    "exp_ratio": 0.64,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PREMX",
+    "product_name": "T. Rowe Price Emerging Markets Bond",
+    "tna": 4767937369,
+    "ms_rating": 4,
+    "exp_ratio": 0.93,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "SEQUX",
+    "product_name": "Sequoia",
+    "tna": 4756261356,
+    "ms_rating": 2,
+    "exp_ratio": 1.03,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "LSBRX",
+    "product_name": "Loomis Sayles Bond Retail",
+    "tna": 4752216631,
+    "ms_rating": 3,
+    "exp_ratio": 0.89,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "NHMAX",
+    "product_name": "Nuveen High Yield Municipal Bond A",
+    "tna": 4731309763,
+    "ms_rating": 4,
+    "exp_ratio": 0.77,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "RERCX",
+    "product_name": "American Funds Europacific Growth R3",
+    "tna": 4730328287,
+    "ms_rating": 3,
+    "exp_ratio": 1.14,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "SWTSX",
+    "product_name": "Schwab Total Stock Market Index",
+    "tna": 4720215049,
+    "ms_rating": 4,
+    "exp_ratio": 0.09,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FASIX",
+    "product_name": "Fidelity Asset Manager 20%",
+    "tna": 4714427402,
+    "ms_rating": 4,
+    "exp_ratio": 0.53,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VIPSX",
+    "product_name": "Vanguard Inflation-Protected Secs Inv",
+    "tna": 4670353639,
+    "ms_rating": 4,
+    "exp_ratio": 0.2,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "RMUNX",
+    "product_name": "Oppenheimer Rochester Fund Municipals A",
+    "tna": 4662188362,
+    "ms_rating": 4,
+    "exp_ratio": 0.73,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VWITX",
+    "product_name": "Vanguard Interm-Term Tx-Ex Inv",
+    "tna": 4660755921,
+    "ms_rating": 4,
+    "exp_ratio": 0.2,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "USATX",
+    "product_name": "USAA Tax Exempt Intermediate-Term",
+    "tna": 4590102821,
+    "ms_rating": 5,
+    "exp_ratio": 0.55,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "SPHIX",
+    "product_name": "Fidelity High Income",
+    "tna": 4563179334,
+    "ms_rating": 3,
+    "exp_ratio": 0.73,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FNMIX",
+    "product_name": "Fidelity New Markets Income",
+    "tna": 4527781050,
+    "ms_rating": 4,
+    "exp_ratio": 0.86,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PGRWX",
+    "product_name": "Putnam Fund for Growth & Income A",
+    "tna": 4464713207,
+    "ms_rating": 2,
+    "exp_ratio": 0.94,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FRSTX",
+    "product_name": "Franklin Strategic Income A",
+    "tna": 4448516149,
+    "ms_rating": 2,
+    "exp_ratio": 0.86,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FFNOX",
+    "product_name": "Fidelity Four-in-One Index",
+    "tna": 4327243032,
+    "ms_rating": 4,
+    "exp_ratio": 0.11,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VHGEX",
+    "product_name": "Vanguard Global Equity Inv",
+    "tna": 4283762266,
+    "ms_rating": 4,
+    "exp_ratio": 0.57,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "STFGX",
+    "product_name": "State Farm Growth",
+    "tna": 4275810636,
+    "ms_rating": 4,
+    "exp_ratio": 0.12,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "MPGFX",
+    "product_name": "Mairs & Power Growth Inv",
+    "tna": 4251369548,
+    "ms_rating": 5,
+    "exp_ratio": 0.65,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "TEMWX",
+    "product_name": "Templeton World A",
+    "tna": 4243239719,
+    "ms_rating": 2,
+    "exp_ratio": 1.06,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VWESX",
+    "product_name": "Vanguard Long-Term Investment-Grade Inv",
+    "tna": 4234514009,
+    "ms_rating": 5,
+    "exp_ratio": 0.21,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRFHX",
+    "product_name": "T. Rowe Price Tax-Free High Yield",
+    "tna": 4186451716,
+    "ms_rating": 4,
+    "exp_ratio": 0.69,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VMGRX",
+    "product_name": "Vanguard Mid Cap Growth Inv",
+    "tna": 4159815508,
+    "ms_rating": 4,
+    "exp_ratio": 0.43,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "NAESX",
+    "product_name": "Vanguard Small Cap Index Inv",
+    "tna": 4092776504,
+    "ms_rating": 4,
+    "exp_ratio": 0.2,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "BAICX",
+    "product_name": "BlackRock Multi-Asset Income Investor A",
+    "tna": 4087517145,
+    "ms_rating": 4,
+    "exp_ratio": 0.84,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FKUTX",
+    "product_name": "Franklin Utilities A",
+    "tna": 4065463321,
+    "ms_rating": 4,
+    "exp_ratio": 0.73,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VIMSX",
+    "product_name": "Vanguard Mid Cap Index Inv",
+    "tna": 4029154000,
+    "ms_rating": 4,
+    "exp_ratio": 0.2,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "ACRNX",
+    "product_name": "Columbia Acorn Z",
+    "tna": 4024835345,
+    "ms_rating": 3,
+    "exp_ratio": 0.82,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "TWHIX",
+    "product_name": "American Century Heritage Inv",
+    "tna": 4006894678,
+    "ms_rating": 4,
+    "exp_ratio": 1,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "JNBAX",
+    "product_name": "JPMorgan Income Builder A",
+    "tna": 4005367821,
+    "ms_rating": 3,
+    "exp_ratio": 0.75,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VMRGX",
+    "product_name": "Vanguard Morgan Growth Inv",
+    "tna": 3995785727,
+    "ms_rating": 3,
+    "exp_ratio": 0.4,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PTTCX",
+    "product_name": "PIMCO Total Return C",
+    "tna": 3934520273,
+    "ms_rating": 3,
+    "exp_ratio": 1.6,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FARCX",
+    "product_name": "Nuveen Real Estate Securities I",
+    "tna": 3933588698,
+    "ms_rating": 5,
+    "exp_ratio": 1.05,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VWEHX",
+    "product_name": "Vanguard High-Yield Corporate Inv",
+    "tna": 3854196400,
+    "ms_rating": 4,
+    "exp_ratio": 0.23,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VWUSX",
+    "product_name": "Vanguard US Growth Inv",
+    "tna": 3823872572,
+    "ms_rating": 4,
+    "exp_ratio": 0.47,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "YAFFX",
+    "product_name": "AMG Yacktman Focused Service",
+    "tna": 3778337196,
+    "ms_rating": 4,
+    "exp_ratio": 1.25,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VTMSX",
+    "product_name": "Vanguard Tax-Managed Small Cap Adm",
+    "tna": 3749021189,
+    "ms_rating": 5,
+    "exp_ratio": 0.11,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VASIX",
+    "product_name": "Vanguard LifeStrategy Income Inv",
+    "tna": 3652341726,
+    "ms_rating": 5,
+    "exp_ratio": 0.12,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "SHAPX",
+    "product_name": "ClearBridge Appreciation A",
+    "tna": 3627936546,
+    "ms_rating": 3,
+    "exp_ratio": 0.98,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRMTX",
+    "product_name": "T. Rowe Price Media & Telecommunications",
+    "tna": 3619089521,
+    "ms_rating": 5,
+    "exp_ratio": 0.79,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "MQIFX",
+    "product_name": "Franklin Mutual Quest Z",
+    "tna": 3440815154,
+    "ms_rating": 4,
+    "exp_ratio": 0.82,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VEXPX",
+    "product_name": "Vanguard Explorer Inv",
+    "tna": 3437478417,
+    "ms_rating": 3,
+    "exp_ratio": 0.49,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRSGX",
+    "product_name": "T. Rowe Price Spectrum Growth",
+    "tna": 3408056367,
+    "ms_rating": 2,
+    "exp_ratio": 0.79,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRWAX",
+    "product_name": "T. Rowe Price New America Growth",
+    "tna": 3368699545,
+    "ms_rating": 4,
+    "exp_ratio": 0.79,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "MAMAX",
+    "product_name": "MFS Moderate Allocation A",
+    "tna": 3349366691,
+    "ms_rating": 3,
+    "exp_ratio": 1,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VGENX",
+    "product_name": "Vanguard Energy Inv",
+    "tna": 3336394351,
+    "ms_rating": 4,
+    "exp_ratio": 0.37,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSCSX",
+    "product_name": "Fidelity Select Software & Comp Port",
+    "tna": 3334350332,
+    "ms_rating": 5,
+    "exp_ratio": 0.77,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "USAIX",
+    "product_name": "USAA Income",
+    "tna": 3330118890,
+    "ms_rating": 4,
+    "exp_ratio": 0.53,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRIDX",
+    "product_name": "T. Rowe Price International Discovery",
+    "tna": 3288884607,
+    "ms_rating": 4,
+    "exp_ratio": 1.2,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FDFFX",
+    "product_name": "Fidelity Independence",
+    "tna": 3283637103,
+    "ms_rating": 1,
+    "exp_ratio": 0.86,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "ORNAX",
+    "product_name": "Oppenheimer Rochester High Yld Muni A",
+    "tna": 3249710070,
+    "ms_rating": 3,
+    "exp_ratio": 0.74,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "ARTMX",
+    "product_name": "Artisan Mid Cap Investor",
+    "tna": 3247088306,
+    "ms_rating": 4,
+    "exp_ratio": 1.19,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "KAUFX",
+    "product_name": "Federated Kaufmann R",
+    "tna": 3238678589,
+    "ms_rating": 3,
+    "exp_ratio": 1.99,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PNOPX",
+    "product_name": "Putnam Multi-Cap Growth A",
+    "tna": 3222681753,
+    "ms_rating": 2,
+    "exp_ratio": 1.04,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VBINX",
+    "product_name": "Vanguard Balanced Index Inv",
+    "tna": 3220389501,
+    "ms_rating": 5,
+    "exp_ratio": 0.22,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "NICSX",
+    "product_name": "Nicholas",
+    "tna": 3218628643,
+    "ms_rating": 5,
+    "exp_ratio": 0.72,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "WASCX",
+    "product_name": "Ivy Asset Strategy C",
+    "tna": 3217234922,
+    "ms_rating": 2,
+    "exp_ratio": 1.68,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "AKREX",
+    "product_name": "Akre Focus Retail",
+    "tna": 3205337926,
+    "ms_rating": 5,
+    "exp_ratio": 1.34,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSDIX",
+    "product_name": "Fidelity Strategic Dividend & Income",
+    "tna": 3156646404,
+    "ms_rating": 5,
+    "exp_ratio": 0.78,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRSCX",
+    "product_name": "T. Rowe Price Science & Tech",
+    "tna": 3091516550,
+    "ms_rating": 4,
+    "exp_ratio": 0.84,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "ANAYX",
+    "product_name": "AllianceBern Global Bond Advisor",
+    "tna": 3021966256,
+    "ms_rating": 4,
+    "exp_ratio": 0.6,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VFFVX",
+    "product_name": "Vanguard Target Retirement 2055 Inv",
+    "tna": 3017879475,
+    "ms_rating": 4,
+    "exp_ratio": 0.16,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRUAX",
+    "product_name": "Prudential Jennison Utility A",
+    "tna": 2995780347,
+    "ms_rating": 2,
+    "exp_ratio": 0.84,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSPTX",
+    "product_name": "Fidelity Select Technology Portfolio",
+    "tna": 2976978702,
+    "ms_rating": 3,
+    "exp_ratio": 0.78,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FFFGX",
+    "product_name": "Fidelity Freedom 2045",
+    "tna": 2971986977,
+    "ms_rating": 3,
+    "exp_ratio": 0.77,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRPFX",
+    "product_name": "Permanent Portfolio",
+    "tna": 2958469462,
+    "ms_rating": 3,
+    "exp_ratio": 0.8,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FMILX",
+    "product_name": "Fidelity New Millennium",
+    "tna": 2925911980,
+    "ms_rating": 3,
+    "exp_ratio": 0.74,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VIGRX",
+    "product_name": "Vanguard Growth Index Inv",
+    "tna": 2922910467,
+    "ms_rating": 4,
+    "exp_ratio": 0.22,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "MAGWX",
+    "product_name": "MFS Growth Allocation A",
+    "tna": 2916200706,
+    "ms_rating": 3,
+    "exp_ratio": 1.06,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VGSIX",
+    "product_name": "Vanguard REIT Index Inv",
+    "tna": 2903033172,
+    "ms_rating": 3,
+    "exp_ratio": 0.26,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "GLRBX",
+    "product_name": "James Balanced: Golden Rainbow R",
+    "tna": 2900961886,
+    "ms_rating": 5,
+    "exp_ratio": 0.97,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FAIRX",
+    "product_name": "Fairholme",
+    "tna": 2888806992,
+    "ms_rating": 1,
+    "exp_ratio": 1.04,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VFICX",
+    "product_name": "Vanguard Interm-Term Invmt-Grade Inv",
+    "tna": 2881805163,
+    "ms_rating": 3,
+    "exp_ratio": 0.2,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "JAVLX",
+    "product_name": "Janus Twenty T",
+    "tna": 2871607746,
+    "ms_rating": 3,
+    "exp_ratio": 0.82,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VTMFX",
+    "product_name": "Vanguard Tax-Managed Balanced Adm",
+    "tna": 2862382641,
+    "ms_rating": 5,
+    "exp_ratio": 0.11,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "USSPX",
+    "product_name": "USAA S&P; 500 Index Member",
+    "tna": 2861498197,
+    "ms_rating": 4,
+    "exp_ratio": 0.26,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VINEX",
+    "product_name": "Vanguard International Explorer Inv",
+    "tna": 2818837416,
+    "ms_rating": 3,
+    "exp_ratio": 0.42,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FLVCX",
+    "product_name": "Fidelity Leveraged Company Stock",
+    "tna": 2799990687,
+    "ms_rating": 2,
+    "exp_ratio": 0.79,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VQNPX",
+    "product_name": "Vanguard Growth & Income Inv",
+    "tna": 2789515758,
+    "ms_rating": 4,
+    "exp_ratio": 0.34,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRGTX",
+    "product_name": "T. Rowe Price Global Technology",
+    "tna": 2776571876,
+    "ms_rating": 5,
+    "exp_ratio": 0.91,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "SHSAX",
+    "product_name": "BlackRock Health Sciences Opps Inv A",
+    "tna": 2749585177,
+    "ms_rating": 4,
+    "exp_ratio": 1.16,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FHAIX",
+    "product_name": "Franklin High Income A",
+    "tna": 2745124137,
+    "ms_rating": 2,
+    "exp_ratio": 0.76,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "ARTQX",
+    "product_name": "Artisan Mid Cap Value Investor",
+    "tna": 2735454069,
+    "ms_rating": 3,
+    "exp_ratio": 1.19,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRNEX",
+    "product_name": "T. Rowe Price New Era",
+    "tna": 2733500471,
+    "ms_rating": 4,
+    "exp_ratio": 0.67,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "SOPAX",
+    "product_name": "ClearBridge Equity Income A",
+    "tna": 2715896472,
+    "ms_rating": 3,
+    "exp_ratio": 1.15,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "MMUFX",
+    "product_name": "MFS Utilities A",
+    "tna": 2710156877,
+    "ms_rating": 2,
+    "exp_ratio": 1,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VGPMX",
+    "product_name": "Vanguard Precious Metals and Mining Inv",
+    "tna": 2693462601,
+    "ms_rating": 3,
+    "exp_ratio": 0.35,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FRIFX",
+    "product_name": "Fidelity Real Estate Income",
+    "tna": 2693345892,
+    "ms_rating": 4,
+    "exp_ratio": 0.83,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PVOYX",
+    "product_name": "Putnam Voyager A",
+    "tna": 2688485122,
+    "ms_rating": 1,
+    "exp_ratio": 1.05,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "MAPTX",
+    "product_name": "Matthews Pacific Tiger Investor",
+    "tna": 2638907516,
+    "ms_rating": 4,
+    "exp_ratio": 1.07,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRASX",
+    "product_name": "T. Rowe Price New Asia",
+    "tna": 2522964801,
+    "ms_rating": 3,
+    "exp_ratio": 0.94,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "ONGIX",
+    "product_name": "JPMorgan Investor Growth & Income A",
+    "tna": 2484615255,
+    "ms_rating": 3,
+    "exp_ratio": 1.22,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "JATTX",
+    "product_name": "Janus Triton T",
+    "tna": 2483973517,
+    "ms_rating": 5,
+    "exp_ratio": 0.92,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSENX",
+    "product_name": "Fidelity Select Energy Portfolio",
+    "tna": 2481054148,
+    "ms_rating": 4,
+    "exp_ratio": 0.8,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FLCSX",
+    "product_name": "Fidelity Large Cap Stock",
+    "tna": 2473662745,
+    "ms_rating": 3,
+    "exp_ratio": 0.78,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSMEX",
+    "product_name": "Fidelity Select Medical Equip & Systems",
+    "tna": 2431665220,
+    "ms_rating": 4,
+    "exp_ratio": 0.76,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FFFHX",
+    "product_name": "Fidelity Freedom 2050",
+    "tna": 2417369777,
+    "ms_rating": 3,
+    "exp_ratio": 0.77,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSMVX",
+    "product_name": "Fidelity Mid Cap Value",
+    "tna": 2413408333,
+    "ms_rating": 4,
+    "exp_ratio": 0.86,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "GWPAX",
+    "product_name": "American Funds Growth Portfolio A",
+    "tna": 2374617311,
+    "ms_rating": 1,
+    "exp_ratio": 0.75,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "TRRIX",
+    "product_name": "T. Rowe Price Retirement Income",
+    "tna": 2358952981,
+    "ms_rating": 4,
+    "exp_ratio": 0.56,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FNCMX",
+    "product_name": "Fidelity Nasdaq Composite Index",
+    "tna": 2336050720,
+    "ms_rating": 5,
+    "exp_ratio": 0.29,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "WASAX",
+    "product_name": "Ivy Asset Strategy A",
+    "tna": 2280670109,
+    "ms_rating": 2,
+    "exp_ratio": 0.96,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FDFAX",
+    "product_name": "Fidelity Select Consumer Staples Port",
+    "tna": 2229226428,
+    "ms_rating": 3,
+    "exp_ratio": 0.77,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VHCOX",
+    "product_name": "Vanguard Capital Opportunity Inv",
+    "tna": 2079259187,
+    "ms_rating": 4,
+    "exp_ratio": 0.45,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSRPX",
+    "product_name": "Fidelity Select Retailing Portfolio",
+    "tna": 2014845087,
+    "ms_rating": 5,
+    "exp_ratio": 0.81,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "TRRNX",
+    "product_name": "T. Rowe Price Retirement 2055",
+    "tna": 1998811961,
+    "ms_rating": 4,
+    "exp_ratio": 0.75,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VISVX",
+    "product_name": "Vanguard Small Cap Value Index Inv",
+    "tna": 1948187851,
+    "ms_rating": 5,
+    "exp_ratio": 0.2,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "THOPX",
+    "product_name": "Thompson Bond",
+    "tna": 1947879903,
+    "ms_rating": 5,
+    "exp_ratio": 0.71,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FBSOX",
+    "product_name": "Fidelity Select IT Services Portfolio",
+    "tna": 1946225610,
+    "ms_rating": 4,
+    "exp_ratio": 0.81,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VEXMX",
+    "product_name": "Vanguard Extended Market Idx Inv",
+    "tna": 1935303939,
+    "ms_rating": 3,
+    "exp_ratio": 0.22,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VWAHX",
+    "product_name": "Vanguard High-Yield Tax-Exempt",
+    "tna": 1923852808,
+    "ms_rating": 5,
+    "exp_ratio": 0.2,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "ONGAX",
+    "product_name": "JPMorgan Investor Growth A",
+    "tna": 1891670855,
+    "ms_rating": 4,
+    "exp_ratio": 1.18,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PIREX",
+    "product_name": "Principal Real Estate Securities Inst",
+    "tna": 1851273139,
+    "ms_rating": 5,
+    "exp_ratio": 0.89,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VISGX",
+    "product_name": "Vanguard Small Cap Growth Index Inv",
+    "tna": 1824023840,
+    "ms_rating": 4,
+    "exp_ratio": 0.2,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "SGROX",
+    "product_name": "Wells Fargo Advantage Growth Inv",
+    "tna": 1795164256,
+    "ms_rating": 4,
+    "exp_ratio": 1.24,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "USIBX",
+    "product_name": "USAA Intermediate-Term Bond",
+    "tna": 1771130987,
+    "ms_rating": 5,
+    "exp_ratio": 0.68,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "SPECX",
+    "product_name": "Alger Spectra A",
+    "tna": 1730942005,
+    "ms_rating": 4,
+    "exp_ratio": 1.19,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "TAREX",
+    "product_name": "Third Avenue Real Estate Value Instl",
+    "tna": 1723776255,
+    "ms_rating": 4,
+    "exp_ratio": 1.1,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VCAIX",
+    "product_name": "Vanguard CA Interm-Term Tax-Exempt Inv",
+    "tna": 1697610274,
+    "ms_rating": 4,
+    "exp_ratio": 0.2,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "BERIX",
+    "product_name": "Berwyn Income",
+    "tna": 1691115585,
+    "ms_rating": 5,
+    "exp_ratio": 0.67,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSAGX",
+    "product_name": "Fidelity Select Gold Portfolio",
+    "tna": 1689158274,
+    "ms_rating": 3,
+    "exp_ratio": 0.94,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "SMMIX",
+    "product_name": "Invesco Summit P",
+    "tna": 1664618958,
+    "ms_rating": 3,
+    "exp_ratio": 0.89,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PENNX",
+    "product_name": "Royce Pennsylvania Mutual Invmt",
+    "tna": 1644907819,
+    "ms_rating": 3,
+    "exp_ratio": 0.93,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VPGDX",
+    "product_name": "Vanguard Managed Payout Investor",
+    "tna": 1636243921,
+    "ms_rating": 3,
+    "exp_ratio": 0.38,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "MLPDX",
+    "product_name": "Oppenheimer SteelPath MLP Income A",
+    "tna": 1568567947,
+    "ms_rating": 2,
+    "exp_ratio": 1.38,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "TGLDX",
+    "product_name": "Tocqueville Gold",
+    "tna": 1555066228,
+    "ms_rating": 4,
+    "exp_ratio": 1.44,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "GASFX",
+    "product_name": "Hennessy Gas Utility Index Investor",
+    "tna": 1543620873,
+    "ms_rating": 4,
+    "exp_ratio": 1.02,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FPHAX",
+    "product_name": "Fidelity Select Pharmaceuticals Port",
+    "tna": 1539489572,
+    "ms_rating": 4,
+    "exp_ratio": 0.78,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VBIIX",
+    "product_name": "Vanguard Interm-Term Bond Index Inv",
+    "tna": 1534991164,
+    "ms_rating": 5,
+    "exp_ratio": 0.16,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSELX",
+    "product_name": "Fidelity Select Electronics Portfolio",
+    "tna": 1533513593,
+    "ms_rating": 3,
+    "exp_ratio": 0.77,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "JAMRX",
+    "product_name": "Janus Research T",
+    "tna": 1514319532,
+    "ms_rating": 4,
+    "exp_ratio": 1,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VEIEX",
+    "product_name": "Vanguard Emerging Mkts Stock Idx Inv",
+    "tna": 1484233056,
+    "ms_rating": 3,
+    "exp_ratio": 0.33,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "JNGLX",
+    "product_name": "Janus Global Life Sciences D",
+    "tna": 1435461056,
+    "ms_rating": 4,
+    "exp_ratio": 0.85,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FDESX",
+    "product_name": "Fidelity Advisor Diversified Stock O",
+    "tna": 1427419402,
+    "ms_rating": 2,
+    "exp_ratio": 0.53,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VIVAX",
+    "product_name": "Vanguard Value Index Inv",
+    "tna": 1397484783,
+    "ms_rating": 4,
+    "exp_ratio": 0.22,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "LMVTX",
+    "product_name": "ClearBridge Value C",
+    "tna": 1319414307,
+    "ms_rating": 2,
+    "exp_ratio": 1.75,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VUSTX",
+    "product_name": "Vanguard Long-Term Treasury Inv",
+    "tna": 1288965325,
+    "ms_rating": 3,
+    "exp_ratio": 0.2,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRESX",
+    "product_name": "T. Rowe Price European Stock",
+    "tna": 1282346806,
+    "ms_rating": 4,
+    "exp_ratio": 0.95,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "HSCSX",
+    "product_name": "Homestead Small Company Stock",
+    "tna": 1272524789,
+    "ms_rating": 4,
+    "exp_ratio": 0.87,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSCHX",
+    "product_name": "Fidelity Select Chemicals Portfolio",
+    "tna": 1257700994,
+    "ms_rating": 5,
+    "exp_ratio": 0.8,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "USAUX",
+    "product_name": "USAA Aggressive Growth",
+    "tna": 1163049632,
+    "ms_rating": 3,
+    "exp_ratio": 0.78,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "RIDEX",
+    "product_name": "American Funds Inc Fund of Amer R4",
+    "tna": 1155897378,
+    "ms_rating": 5,
+    "exp_ratio": 0.62,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FBDIX",
+    "product_name": "Franklin Biotechnology Discovery A",
+    "tna": 1154815176,
+    "ms_rating": 2,
+    "exp_ratio": 1,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "OGBCX",
+    "product_name": "JPMorgan Investor Balanced C",
+    "tna": 1154762675,
+    "ms_rating": 3,
+    "exp_ratio": 1.76,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "USAWX",
+    "product_name": "USAA World Growth",
+    "tna": 1139102579,
+    "ms_rating": 5,
+    "exp_ratio": 1.17,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "MLPAX",
+    "product_name": "Oppenheimer SteelPath MLP Alpha A",
+    "tna": 1108278506,
+    "ms_rating": 3,
+    "exp_ratio": 1.52,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "USHYX",
+    "product_name": "USAA High Income",
+    "tna": 1075966162,
+    "ms_rating": 4,
+    "exp_ratio": 0.89,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "TOLLX",
+    "product_name": "Deutsche Global Infrastructure A",
+    "tna": 1066421275,
+    "ms_rating": 4,
+    "exp_ratio": 1.38,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "USBSX",
+    "product_name": "USAA Cornerstone Moderate",
+    "tna": 1064461990,
+    "ms_rating": 2,
+    "exp_ratio": 1.09,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSUTX",
+    "product_name": "Fidelity Select Utilities Portfolio",
+    "tna": 1057558268,
+    "ms_rating": 3,
+    "exp_ratio": 0.8,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "LEXCX",
+    "product_name": "Voya Corporate Leaders Trust B",
+    "tna": 1031281220,
+    "ms_rating": 4,
+    "exp_ratio": 0.59,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "MFLDX",
+    "product_name": "MainStay Marketfield I",
+    "tna": 992013921,
+    "ms_rating": 2,
+    "exp_ratio": 1.64,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "TWGTX",
+    "product_name": "American Century All Cap Growth Inv",
+    "tna": 990781819,
+    "ms_rating": 3,
+    "exp_ratio": 1,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSDAX",
+    "product_name": "Fidelity Select Defense & Aero Port",
+    "tna": 984844890,
+    "ms_rating": 5,
+    "exp_ratio": 0.8,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "SWHFX",
+    "product_name": "Schwab Health Care",
+    "tna": 971193228,
+    "ms_rating": 3,
+    "exp_ratio": 0.79,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FHKCX",
+    "product_name": "Fidelity China Region",
+    "tna": 965789079,
+    "ms_rating": 4,
+    "exp_ratio": 0.99,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSEMX",
+    "product_name": "Fidelity Spartan Extended Mkt Index Inv",
+    "tna": 957344719,
+    "ms_rating": 3,
+    "exp_ratio": 0.1,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "GENIX",
+    "product_name": "Gotham Enhanced Return Institutional",
+    "tna": 955062347,
+    "ms_rating": 3,
+    "exp_ratio": 2.13,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VCVLX",
+    "product_name": "Vanguard Capital Value Inv",
+    "tna": 934657052,
+    "ms_rating": 2,
+    "exp_ratio": 0.5,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "CGMRX",
+    "product_name": "CGM Realty",
+    "tna": 927556268,
+    "ms_rating": 2,
+    "exp_ratio": 0.92,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSIIX",
+    "product_name": "Fidelity Spartan International Idx Inv",
+    "tna": 925564193,
+    "ms_rating": 3,
+    "exp_ratio": 0.19,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VDAIX",
+    "product_name": "Vanguard Dividend Appreciation Idx Inv",
+    "tna": 886037501,
+    "ms_rating": 4,
+    "exp_ratio": 0.19,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "CGMFX",
+    "product_name": "CGM Focus",
+    "tna": 846160809,
+    "ms_rating": 1,
+    "exp_ratio": 1.13,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "GAUCX",
+    "product_name": "Gabelli Utilities C",
+    "tna": 830620145,
+    "ms_rating": 2,
+    "exp_ratio": 2.14,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FNARX",
+    "product_name": "Fidelity Select Natural Resources Port",
+    "tna": 809933032,
+    "ms_rating": 3,
+    "exp_ratio": 0.86,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PGNAX",
+    "product_name": "Prudential Jennison Natural Resources A",
+    "tna": 760759280,
+    "ms_rating": 2,
+    "exp_ratio": 1.22,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSTMX",
+    "product_name": "Fidelity Spartan Total Market Idx Inv",
+    "tna": 701468799,
+    "ms_rating": 4,
+    "exp_ratio": 0.09,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "VEURX",
+    "product_name": "Vanguard European Stock Index Inv",
+    "tna": 627204876,
+    "ms_rating": 3,
+    "exp_ratio": 0.26,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "JAOSX",
+    "product_name": "Janus Overseas T",
+    "tna": 606658229,
+    "ms_rating": 1,
+    "exp_ratio": 0.67,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "PRLAX",
+    "product_name": "T. Rowe Price Latin America",
+    "tna": 586927875,
+    "ms_rating": 3,
+    "exp_ratio": 1.37,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "HSGFX",
+    "product_name": "Hussman Strategic Growth",
+    "tna": 580503279,
+    "ms_rating": 1,
+    "exp_ratio": 1.13,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "MCHFX",
+    "product_name": "Matthews China Investor",
+    "tna": 553947850,
+    "ms_rating": 3,
+    "exp_ratio": 1.14,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "ICPAX",
+    "product_name": "Integrity Williston Bsn/Md-N Amer Stk A",
+    "tna": 552049374,
+    "ms_rating": 4,
+    "exp_ratio": 1.45,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FLATX",
+    "product_name": "Fidelity Latin America",
+    "tna": 517302920,
+    "ms_rating": 2,
+    "exp_ratio": 1.13,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSESX",
+    "product_name": "Fidelity Select Energy Service Port",
+    "tna": 500675708,
+    "ms_rating": 2,
+    "exp_ratio": 0.85,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "FSNGX",
+    "product_name": "Fidelity Select Natural Gas Portfolio",
+    "tna": 417197049,
+    "ms_rating": 3,
+    "exp_ratio": 0.89,
+    "market_cap": "Small"
+  },
+  {
+    "product_id": "GABUX",
+    "product_name": "Gabelli Utilities AAA",
+    "tna": 398880321,
+    "ms_rating": 3,
+    "exp_ratio": 1.39,
+    "market_cap": "Small"
+  }
+]
