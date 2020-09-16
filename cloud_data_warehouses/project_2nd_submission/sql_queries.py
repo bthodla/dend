@@ -8,7 +8,7 @@ config.read('dwh.cfg')
 ARN=config.get('IAM_ROLE', 'ARN')
 LOG_DATA=config.get('S3', 'LOG_DATA')
 LOG_JSONPATH=config.get('S3', 'LOG_JSONPATH')
-SONG_DATA=config.get('S3', 'SONG_DATA')
+SONG_DATA=confg.get('S3', 'SONG_DATA')
 SONGS_JSONPATH=config.get('S3', 'SONGS_JSONPATH')
 
 # DROP TABLES
@@ -17,14 +17,15 @@ staging_events_table_drop = "drop table if exists staging_events"
 staging_songs_table_drop = "drop table if exists staging_songs"
 songplay_table_drop = "drop table if exists songplay"
 user_table_drop = "drop table if exists users"
-song_table_drop = "drop table if exists songs"
+song_table_drop = "drop table if exits songs"
 artist_table_drop = "drop table if exists artists"
-time_table_drop = "drop table if exists time"
+time_table_drop = "drop table if exits time"
 
 # CREATE TABLES
 
 staging_events_table_create= ("""
     create table if not exists staging_events (
+        event_id int identity(0,1) not null,
         artist varchar,
         auth varchar,
         firstName varchar,
@@ -86,7 +87,7 @@ user_table_create = ("""
 """)
 
 song_table_create = ("""
-    create table if not exists songs (
+    create table if not exits songs (
         song_id varchar primary key,
         title varchar,
         arist_id varchar not null,
@@ -130,11 +131,11 @@ staging_events_copy = ("""
 staging_songs_copy = ("""
     copy staging_songs from {}
     credentials 'aws_iam_role={}'
-    format as json 'auto'
+    format as json {}
     ACCEPTINVCHARS AS '^'
     STATUPDATE ON
     region 'us-east-1'
-""").format(SONG_DATA, ARN)
+""").format(SONG_DATA, ARN, SONGS_JSONPATH)
 
 # FINAL TABLES
 
@@ -160,10 +161,7 @@ songplay_table_insert = ("""
         stgev.user_agent
     from staging_events as stgev
         join staging_songs as stgsng 
-        on (stgev.artist = stgsng.artist_name
-            and stgev.song = stgsng.title
-            and stgev.length = stgsng.duration
-            )
+        on (stgev.artist = stgsng.artist_name)
     where stgev.page = 'NextSong';
 
 """)

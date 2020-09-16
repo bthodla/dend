@@ -8,7 +8,7 @@ config.read('dwh.cfg')
 ARN=config.get('IAM_ROLE', 'ARN')
 LOG_DATA=config.get('S3', 'LOG_DATA')
 LOG_JSONPATH=config.get('S3', 'LOG_JSONPATH')
-SONG_DATA=config.get('S3', 'SONG_DATA')
+SONG_DATA=confg.get('S3', 'SONG_DATA')
 SONGS_JSONPATH=config.get('S3', 'SONGS_JSONPATH')
 
 # DROP TABLES
@@ -17,14 +17,15 @@ staging_events_table_drop = "drop table if exists staging_events"
 staging_songs_table_drop = "drop table if exists staging_songs"
 songplay_table_drop = "drop table if exists songplay"
 user_table_drop = "drop table if exists users"
-song_table_drop = "drop table if exists songs"
+song_table_drop = "drop table if exits songs"
 artist_table_drop = "drop table if exists artists"
-time_table_drop = "drop table if exists time"
+time_table_drop = "drop table if exits time"
 
 # CREATE TABLES
 
 staging_events_table_create= ("""
     create table if not exists staging_events (
+        event_id int identity(0,1) not null,
         artist varchar,
         auth varchar,
         firstName varchar,
@@ -37,36 +38,36 @@ staging_events_table_create= ("""
         method varchar,
         page varchar,
         registration bigint,
-        sessionId int,
+        sessionId int not null,
         song varchar,
         status int,
-        ts timestamp,
+        ts timestamp not null,
         userAgent varchar,
         userId int
-    ); 
+    ) DISTKEY (sessionId) SORTKEY (sessionId);
 """)
 
 staging_songs_table_create = ("""
     create table if not exists staging_songs (
-        num_songs int,
-        artist_id varchar,
+        num_songs int not null,
+        artist_id varchar not null,
         artist_latitude varchar,
         artist_longitude varchar,
         artist_location varchar,
         artist_name varchar,
-        song_id varchar,
+        song_id varchar not null,
         title varchar,
         duration float,
         year int,
-    );
+    ) DISTKEY (artist_id) SORTKEY (song_id);
 """)
 
 songplay_table_create = ("""
     create table if not exists songplays (
-        songplay_id int identity(0,1) primary key,
+        songplay_id int identity(0,1) not null,
         start_time timestamp not null,
         user_id varchar not null,
-        level varchar,
+        level varchar not null,
         song_id varchar not null,
         artist_id varchar not null,
         session_id int not null,
@@ -77,7 +78,7 @@ songplay_table_create = ("""
 
 user_table_create = ("""
     create table if not exists users (
-        user_id varchar primary key,
+        user_id varchar not null,
         first_name varchar,
         last_name varchar,
         gender varchar,
@@ -86,10 +87,10 @@ user_table_create = ("""
 """)
 
 song_table_create = ("""
-    create table if not exists songs (
-        song_id varchar primary key,
+    create table if not exits songs (
+        song_id varchar not null,
         title varchar,
-        arist_id varchar not null,
+        arist_id varchar,
         year int,
         duration float
     ) SORTKEY (song_id);
@@ -97,7 +98,7 @@ song_table_create = ("""
 
 artist_table_create = ("""
     create table if not exists artists (
-        artist_id varchar primary key,
+        artist_id varchar not null,
         name varchar,
         location varchar,
         latitude varchar,
@@ -107,7 +108,7 @@ artist_table_create = ("""
 
 time_table_create = ("""
     create table if not exists time (
-        start_time timestamp primary key,
+        start_time timestamp not null,
         hour smallint,
         day smallint,
         week smallint,
@@ -130,11 +131,11 @@ staging_events_copy = ("""
 staging_songs_copy = ("""
     copy staging_songs from {}
     credentials 'aws_iam_role={}'
-    format as json 'auto'
+    format as json {}
     ACCEPTINVCHARS AS '^'
     STATUPDATE ON
     region 'us-east-1'
-""").format(SONG_DATA, ARN)
+""").format(SONG_DATA, ARN, SONGS_JSONPATH)
 
 # FINAL TABLES
 
@@ -160,10 +161,7 @@ songplay_table_insert = ("""
         stgev.user_agent
     from staging_events as stgev
         join staging_songs as stgsng 
-        on (stgev.artist = stgsng.artist_name
-            and stgev.song = stgsng.title
-            and stgev.length = stgsng.duration
-            )
+        on (stgev.artist = stgsng.artist_name)
     where stgev.page = 'NextSong';
 
 """)
