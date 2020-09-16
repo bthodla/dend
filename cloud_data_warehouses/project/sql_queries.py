@@ -44,7 +44,7 @@ staging_events_table_create= ("""
         ts timestamp not null,
         userAgent varchar,
         userId int
-    ) DISTKEY (sessionId) SORTKEY (sessionId);
+    );
 """)
 
 staging_songs_table_create = ("""
